@@ -103,6 +103,6 @@ Start the server
 
 
 ## 📋 Relevant Links
-- **Github repo**  [https://github.com/habibchy947/Sportify-Clients.git](https://github.com/habibchy947/Sportify-Clients.git)
+- **Github repo**  [https://github.com/habibchy947/Sportify_Clients](https://github.com/habibchy947/Sportify_Clients)
 
 
